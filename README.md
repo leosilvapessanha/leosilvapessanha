@@ -50,8 +50,8 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- #### Github Stats
+#### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=leosilvapessanha&count_private=true&theme=merko&hide=contribs,prs) -->
+[![leosilvapessanha's github stats](https://github-readme-stats.vercel.app/api?username=leosilvapessanha&hide=contribs,prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- </details> -->

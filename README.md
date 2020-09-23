@@ -36,22 +36,6 @@ I think that my main strengh is to be able to work in different areas, which bri
 
 I love work problems out, doesn't matter if it's in engineering, design or codding.
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-
-<!-- ```text
-<!-- TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-``` -->
-
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 [![leosilvapessanha's github stats](https://github-readme-stats.vercel.app/api?username=leosilvapessanha&hide=contribs,prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- </details> -->
